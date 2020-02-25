@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Tomorrow Night",
+    "editor.renderWhitespace": "all",
+    "editor.fontSize": 14,
+    "editor.links": false,
+    "emmet.includeLanguages": {"css": "css"}
+}
